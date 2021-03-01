@@ -1,5 +1,11 @@
 ---
-title: "My second story"
+title: "Data Feminism Chapter 1: The Power"
 ---
 
-It was the best of times, it was the worst of times...
+The authors presented a stark contrast between the absense of important data on female reproductive health and the disturbingly rich data on the pregnancy status of private customers. The chapter introduces the sociological theory on the 4 domains of domination: structural, disciplinary, hegemonic, and interpersonal. Guided by this system, we can easily identify how data has been contributing to the systematic oppression of minoritized individuals.  
+
+In theory, data itself is an objective fact or observation, at least that's how the contemporary society publicizes it. Even if that is true, facts can still be used in various ways. We give the data meanings to obtain our goal. It reminds me of the observer effect in quantum mechanics. When we perceive data, it goes through our existing cognitive routes no matter we are conscious of it or not. It's merely impossible for humans to process information without cognitive processes that are biased by design.  
+
+If we pool all the possible cognitive processes that all humans have in a given society and convert the mechanisms into a Bayesian model, the relative prbabilities of each cognitive processes would be representative of that society. However, we only have limited resources to identify phenomena and collect data. So what we have data for should the realms that we value the most, or what people in power value the most.  
+
+Paradoxically, the only way to raise awareness exposes vulnerable individuals and could also reinforce the perceiced stereotypes. This is the place that privileged but not the too-privieged-to-care individuals who are wondering what the meanings of lives are should be educated about sociological responsibilities enough to do their share. 
