@@ -1,0 +1,30 @@
+---
+title: "Data Feminism Chapter 2: Collect, Analyze, Imagine, Teach"
+---
+
+Several concepts and quotes in this chapter I find worth noting.  
+
+> Redlining: how banks rated the risk of granting loans to potential homeowners on the basis of neighborhood demographics (specifically race and ethnicity), rather than individual creditworthiness.
+
+> Restorative Justice: decisions should be made in ways that recognize and rectify any harms of the past. Any notion of algorithmic fairness must also acknowledge the systematic nature of the unfairness that has long been perpetrated by certain groups on others. 
+
+> If you are a Black woman or a Muslim man or a transgender service member and you live in the United States today, your being in the world is political, whether or not you want it to be. *Black Feminist Thought*, 274–275.
+
+> These early big data systems were built on a specific understanding of what constitutes discrimination: personal bias. *Data and Discrimination: Collected Essays* (Washington, DC: Open Technology, 2014).
+
+> If you have come here to help me, you are wasting your time. But if you have come because your liberation is bound up with mine, then let us work together. *Aboriginal activists in Australia, the 1970s*
+
+> Because the goal of learning data science is modeled as individual mastery of technical concepts and skills, communities are not engaged and conversations are restricted. 
+
+> Mathematics for spatial justice: aims to show how mathematical concepts can be taught in ways that relate to justice concerns arising from students’ everyday lives, and to do so in dialogue with people in their neighborhoods and communities. 
+
+* The Local Lotto project: designed to expose high school learners to social inequality in the instance of lottery purchase, aka.'poverty tax', in a community. 
+  + Relevancy 
+  + Lived experience/ Qualitative data
+  + Collaboration
+
+What this chapter illustrated is that people with lived experiences are the experts, not the course designers. Having people from the community as the leaders in these programs towards justice is not just helpful in terms of resources and content, the presence of these leaders itself is empowering.  
+
+What I've realized in the recent years is that we don't ask enough questions. We think we can make sense of systematic problems in our heads because we have access to knowledge. But the interpretations and solutions we come up with are actually not helpful except for making us feel better about ourselves. A lot of times when I hear people blaming the system or say they don't know what they can do as individuals to make things better, I wonder why the option of asking questions to those who actually know what's wrong never cross their minds?   
+
+There is a fundamental difference between defending oneself and being truly curious. After raising the point that few POC students spoke up in class, I received several messages from white folks expressing how much they agree with me. Nobody asked questions. I don't need anyone to agree with me and I don't care if people agree or not. My purpose is not to prove I'm right. I would rather be proven wrong so I can learn something. What I see is people wanting to feel better about themselves but not really interested in what's wrong or how to improve it. 
