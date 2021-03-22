@@ -1,0 +1,11 @@
+---
+title: "Data Feminism Chapter 3 & 4: Emotion and Embodiment; Rethink Binaries and Hierarchies"
+---
+
+> [A 2018 Stanford study](https://inequality.stanford.edu/sites/default/files/Pathways_SOTU_2018_gender-ID.pdf.) found that, when given the choice among seven points on a gender spectrum, more than two-thirds of the subjects polled placed themselves somewhere in the middle.
+
+The authors talked about how the binary gender classification system played into the social power structure and how ethical and socially informed forms of data collection can actually help identify and shed light on social problems. 
+
+Besides the benefits already mentioned, I want to point out how much of an effect it can have on an individual level. [Studies](https://pediatrics.aappublications.org/content/137/3/e20153223) showed trans minors who were supported in their identities had significantly better mental health outcome than those who didn't. The power of social validation deserve all the emphasis. Simple efforts to validate individuals' identities can sometimes be more life-saving than medical advances given that about half of the transgender and gender non-conforming population have attempted suicide, more than 10 times more likely to attempt than a cisgender adult.  
+
+Also, I wonder why are we reluctant to incorporate inclusive features when it leads to primarily positive outcomes. Does collecting demographic information in a more individualized way hurt anyone? Probably not. Maybe some companies will need to adjust their marketing strategies, but more detailed information wouldn't hurt their chances. If anything, companies should be over the moon to have more data that can help them predict customer behavior. Yes adjustment will take time and effort, but doesn't anything? I would love to know more about how companies think about it.

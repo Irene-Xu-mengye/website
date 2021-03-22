@@ -18,15 +18,17 @@ navbar:
           href: post2.html
         - text: "Post 3"
           href: post3.html
+        - text: "Post 4"
+          href: post4.html
   right:
     - icon: fa-envelope 
-      href: mailto:bbaumer@smith.edu
+      href: mailto:mxu50@smith.edu
     - icon: fa-github
-      href: http://www.github.com/beanumber
+      href: http://www.github.com/Irene-Xu-mengye
     - icon: fa-twitter
-      href: http://www.twitter.com/BaumerBen
+      href: https://twitter.com/IreneXu52505455
     - icon: fa-linkedin
-      href: https://www.linkedin.com/in/ben-baumer-809b3a75
+      href: https://www.linkedin.com/in/irene-x-441588187/
 
 output:
   html_document:
