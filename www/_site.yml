@@ -4,25 +4,28 @@ navbar:
   title: "Irene xu"
   left:
     - text: "Home"
-      icon: fa-home
       href: index.html
     - text: "About Me"
-      icon: fa-user-check
       href: about.html
-    - text: "Blog"
-      icon: fa-newspaper
-      menu:
-        - text: "Post 1"
-          href: post1.html
-        - text: "Post 2"
-          href: post2.html
-        - text: "Post 3"
-          href: post3.html
-        - text: "Post 4"
-          href: post4.html
+    - text: "Opinions"
+      href: opinions.html 
+      menu: 
+        - text: "Emotional Numbing"
+          href: en.description.html 
+        - text: "Ethics in Data Science"
+          icon: fa-newspaper
+          menu:
+            - text: "Post 1"
+              href: post1.html
+            - text: "Post 2"
+              href: post2.html
+            - text: "Post 3"
+              href: post3.html
+            - text: "Post 4"
+              href: post4.html
   right:
     - icon: fa-envelope 
-      href: mailto:mxu50@smith.edu
+      href: mailto:irenexupsych@gmail.com
     - icon: fa-github
       href: http://www.github.com/Irene-Xu-mengye
     - icon: fa-twitter
@@ -32,7 +35,7 @@ navbar:
 
 output:
   html_document:
-    theme: lumen
+    theme: flat
     highlight: pygments
     toc: true
     toc_float: true
